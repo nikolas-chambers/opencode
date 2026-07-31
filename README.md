@@ -128,3 +128,21 @@ If you are working on a project that's related to OpenCode and is using "opencod
 ---
 
 **Join our community** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)
+
+---
+
+<table>
+<tr><td>
+
+### ☕ Buy me a coffee?
+
+**Venmo · Cash App · PayPal — "NikAndRigatoni" (Nikolas Chambers)**
+
+The honest version: my dog and I are living in the car right now. I spend my
+days writing code anyway - bringing old projects of mine back to life one at a
+time, and learning everything I can along the way. If anything here was useful
+to you, a few bucks goes to dog food, gas, and keeping the laptop running, and
+it buys me more hours to keep building. Either way, thanks for reading this far.
+
+</td></tr>
+</table>
